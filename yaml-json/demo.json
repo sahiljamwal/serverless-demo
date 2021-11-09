@@ -1,0 +1,19 @@
+{
+  "person": {
+    "age": 23,
+    "name": "Sahil Jamwal",
+    "experience": 1.5,
+    "isSigma": true
+  },
+  "cities": ["Delhi", "Palampur", "Bangaluru"],
+  "marks": [
+    {
+      "sub": "Maths",
+      "grade": "A"
+    },
+    {
+      "sub": "DSA",
+      "grade": "A"
+    }
+  ]
+}
